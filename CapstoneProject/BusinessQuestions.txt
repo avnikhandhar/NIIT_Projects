@@ -1,0 +1,28 @@
+1.  Budget wise top 5 movies.
+2.  Most popular languages in entertainment industry.
+3.  Top 5 Popular movies
+4.  Movies with higher revenues.
+5.  Year with maximum releases and year with least releases.
+6.  Trend in runtime of movies
+7.  Budget and Revenue Analysis
+8.  Popularity vs Budget-------
+9.  Popularity vs Revenue------------
+10. Popularity vs Runtime---------------
+11. Budget vs Status-------not needed
+12. Popularity vs vote avg--------
+13. Popularity vs vote count-----------
+14. Most liked genre----------
+15. Least liked genre---------------
+16. Director associated with high,medium,low budget.------------
+17. Director associated with high,medium,low revenue.-----------
+18. Producer associated with high,medium,low budget.
+19. Producer associated with high,medium,low revenue.
+20. Actor associated with high,medium,low budget.
+21. Actor associated with high,medium,low revenue.
+22. Actress associated with high,medium,low budget.
+23. Actress associated with high,medium,low revenue.
+24. Time of the year when movies are released more often.
+25. Time of the year when movies are not much released.
+26. Runtime vs Revenue----------
+27. Runtime vs Original Language-------------
+28. Runtime vs Budget----------------
